@@ -1,0 +1,6 @@
+streamlit 
+roboflow 
+inference 
+PILLOW
+ultralytics
+easyocr
