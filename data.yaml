@@ -1,0 +1,7 @@
+train: annotate_images/train/images
+val: annotate_images/valid/images
+test: annotate_images/test/images
+
+nc: 1
+names: ["license_plate"]
+ 
